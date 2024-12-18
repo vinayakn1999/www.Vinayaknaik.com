@@ -614,12 +614,12 @@ strong {
 -----------------------------------------*/
 
 .clients-item-height {
-	height: 120px;
+	height: 300px;
 }
 
 .clients-image {
   display: block;
-  max-width: 100px;
+  max-width: 400px;
   margin: auto;
   transition: all ease 0.2s;
 }
@@ -627,6 +627,7 @@ strong {
 .clients-image:hover {
   transform: scale(1.3);
 }
+
 
 
 /*---------------------------------------
